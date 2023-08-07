@@ -1,0 +1,23 @@
+.photo {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.photo img {
+    width: 464px;
+    height: 565px;
+    object-fit: cover;
+    object-position: 50% 50%;
+    border: 2px solid white;
+}
+
+.photo_text {
+    width: 50%;
+    padding-top: 20px;
+    margin-top: 50px;
+    text-align: center;
+    margin: auto;
+    color: white;
+}

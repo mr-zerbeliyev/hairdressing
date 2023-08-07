@@ -1,0 +1,10 @@
+.nav{
+   background-color: black;
+   padding: 8px;
+   border-radius: 5px;
+ 
+}
+
+.nav a {
+    color: white !important;
+}
