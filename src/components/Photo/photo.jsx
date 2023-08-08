@@ -20,9 +20,10 @@ const Photo = ({ img }) => {
           salon options that positively contribute to making a better world. We
           hope you enjoy what we have created.
         </p>
-        <Button variant="light" size="m">
+        <Button className="btn_photo"  variant="light" size="m">
           Block level button
         </Button>
+        
       </div>
     </div>
   );

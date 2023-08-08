@@ -14,10 +14,20 @@
 }
 
 .photo_text {
+    
+    font-size: 15px;
     width: 50%;
-    padding-top: 20px;
-    margin-top: 50px;
+    padding-top: 50px;
+    margin-top: 70px !important;
     text-align: center;
     margin: auto;
-    color: white;
+    color: rgb(206, 204, 204);
+}
+.photo_text h2{
+    letter-spacing: 2px;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.btn_photo{
+    margin-top: 30px;
 }
